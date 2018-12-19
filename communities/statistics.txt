@@ -1,0 +1,5 @@
+# ca-AstroPh 17903 197031 50
+# ca-CondMat 21363 91342 100
+# ca-GrQc 4158 13428 2
+# ca-HepPh 11204 117649 25
+# ca-HepTh 8638 24827 20
