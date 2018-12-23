@@ -33,3 +33,9 @@ If you have any suggestion for improvement/fix, please contact
 
 - [Han](han.xiao@aalto.fi)
 - [Suhas](suhas.muniyappa@aalto.fi)
+
+
+
+python evaluate.py ca-AstroPh.txt CA-AstroPh.csv
+
+
